@@ -435,7 +435,7 @@
     },
     {
       "packageName": "aws-common-tools",
-      "projectFolder": "lib/aws-common-tools",
+      "projectFolder": "libs/aws-common-tools",
       "reviewCategory": "lib",
       "tags": [ "lib", "aws", "cdk"]
     }
