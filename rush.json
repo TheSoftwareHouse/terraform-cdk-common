@@ -426,6 +426,19 @@
       "projectFolder": "constructs/aws-cloudfront",
       "reviewCategory": "constructs",
       "tags": [ "constructs", "aws", "cdk", "terraform" ]
+    },
+    {
+      "packageName": "aws-s3bucket-construct",
+      "projectFolder": "constructs/aws-s3bucket",
+      "reviewCategory": "constructs",
+      "tags": [ "constructs", "aws", "cdk", "terraform" ]
+    },
+    {
+      "packageName": "aws-common-tools",
+      "projectFolder": "lib/aws-common-tools",
+      "reviewCategory": "lib",
+      "tags": [ "lib", "aws", "cdk"]
     }
+
   ]
 }

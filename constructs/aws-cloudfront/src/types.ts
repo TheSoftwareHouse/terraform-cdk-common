@@ -1,4 +1,4 @@
-export interface AWSCloudFrontProps {
+export interface AwsCloudFrontProps {
     name: string;
     region: string;
  }
