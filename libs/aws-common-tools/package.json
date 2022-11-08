@@ -1,5 +1,5 @@
 {
-  "name": "aws-common-tools",
+  "name": "cdk-aws-common-tools",
   "private": true,
   "version": "1.0.0",
   "main": "lib/index.js",

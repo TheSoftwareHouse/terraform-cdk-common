@@ -1,5 +1,5 @@
 {
-  "name": "aws-s3bucket-construct",
+  "name": "cdk-aws-s3bucket-construct",
   "private": true,
   "version": "1.0.0",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
     "cdktf": "~0.13.3",
     "constructs": "~10.1.153",
     "tslib": "~2.4.1",
-    "aws-common-tools": "^1.0.0"
+    "cdk-aws-common-tools": "^1.0.0"
   },
   "devDependencies": {
     "@rushstack/heft": "^0.48.8",
