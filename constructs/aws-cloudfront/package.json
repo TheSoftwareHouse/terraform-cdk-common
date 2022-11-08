@@ -1,0 +1,21 @@
+{
+  "name": "cdk-aws-cloudfront-construct",
+  "private": true,
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "dependencies": {
+    "cdktf": "~0.13.3",
+    "constructs": "~10.1.153",
+    "tslib": "~2.4.1",
+    "cdk-aws-common-tools": "^1.0.0"
+  },
+  "devDependencies": {
+    "@rushstack/heft": "^0.48.8",
+    "@types/node": "18.11.9",
+    "typescript": "~4.8.4"
+  },
+  "scripts": {
+    "build": "heft build --clean"
+  }
+}

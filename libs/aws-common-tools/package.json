@@ -1,0 +1,18 @@
+{
+  "name": "cdk-aws-common-tools",
+  "private": true,
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "dependencies": {
+    "tslib": "~2.4.1"
+  },
+  "devDependencies": {
+    "@rushstack/heft": "^0.48.8",
+    "@types/node": "18.11.9",
+    "typescript": "~4.8.4"
+  },
+  "scripts": {
+    "build": "heft build --clean"
+  }
+}
